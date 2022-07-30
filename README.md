@@ -16,7 +16,7 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 </div>
 
 
-<div align=center><h2>📚 Once I've Used</h2></div>
+<div align=center><h2>📚 I used it more than once</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
