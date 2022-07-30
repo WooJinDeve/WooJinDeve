@@ -1,8 +1,4 @@
-<div align=center><h2>👋 Hi thered</h2></div>
-<div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true)
-</div>
 
 
 <div align=center><h2>📚 Once I've Used</h2></div>
@@ -30,12 +26,20 @@
   <br>
 </div>
 
-<div align=center><h2>⚡ Soved.ac</h2></div>
 
+<div align=center><h2>:smile: It's Me</h2></div>
+<div align=center>
+<a href="https://github.com/WooJinDeve/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/%EC%9A%B0%EC%A7%84-%EC%A0%95-b04136245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true)
+
+</div>
+
+<div align=center><h2>⚡ Soved.ac</h2></div>
 <div align=center>
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jwj06011})](https://solved.ac/{jwj06011})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwj06011)](https://solved.ac/jwj06011)
 
 </div>
 
