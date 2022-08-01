@@ -48,6 +48,5 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 <div align=center>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwj06011)](https://solved.ac/jwj06011)
-
 </div>
 
