@@ -16,9 +16,6 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 ![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true)
 </div>
 
-https://velog.io/@woojindev1999
-
-
 <div align=center><h2>📚 I used it more than once</h2></div>
 
 <div align=center> 
