@@ -2,6 +2,7 @@
 <div align=center>
 <a href="https://github.com/WooJinDeve/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%EC%9A%B0%EC%A7%84-%EC%A0%95-b04136245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://velog.io/@woojindev1999/"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </div>
 
 ``` Java
@@ -12,8 +13,10 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true)
+![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true)
 </div>
+
+https://velog.io/@woojindev1999
 
 
 <div align=center><h2>📚 I used it more than once</h2></div>
