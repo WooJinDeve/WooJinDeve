@@ -28,6 +28,8 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+
   <br>
 
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
