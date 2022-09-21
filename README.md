@@ -37,6 +37,8 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
   <br>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+
   <br>
   
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?sstyle=flat-square&logo=IntelliJ IDEA&logoColor=white">
