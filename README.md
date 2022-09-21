@@ -50,10 +50,13 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 
 <br/>
 
-<div align=center><h2>⚡ Soved.ac</h2></div>
+## 
 
-<div align=center>
+<!-- <div align=center><h2>⚡ Soved.ac</h2></div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwj06011)](https://solved.ac/jwj06011)
-</div>
+ <div align=center>
 
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwj06011)](https://solved.ac/jwj06011)
+ </div>
+
+-->
