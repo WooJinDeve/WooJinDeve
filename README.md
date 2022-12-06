@@ -11,7 +11,6 @@ System.out.println("I've been doing the GitHub 1 commit challenge for a year");
 ``` 
 
 <div align="center">
-
 <h2 align=left>💪 My Skills</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WooJinDeve&theme=vue&show_icons=true"/>
