@@ -7,7 +7,7 @@
 
 ``` Java
 System.out.println("Hello world ! My name is Woojin");
-System.out.println("I am a student studying to be a backend developer");
+System.out.println("I'm currently working as a software engineer at a company called poscoDX.");
 ``` 
 <div align="center">
 <h2 align=left>💪 My Skills</h2>
